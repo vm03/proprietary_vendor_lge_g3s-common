@@ -16,6 +16,6 @@
 
 LOCAL_PATH := $(call my-dir)
 
-ifeq ($(TARGET_DEVICE),jagnm)
+ifeq ($(TARGET_DEVICE),jagnm jag3gds)
 
 endif
